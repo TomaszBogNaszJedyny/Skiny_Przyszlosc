@@ -1,0 +1,179 @@
+.myDiv
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -50%, -1500%);
+}
+h1
+{
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate( -35%, 20%);
+  color: #C03939;
+  font-size: 50px;
+  width: 600px;
+}
+
+
+
+h2
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -650%, 300%);
+}
+h3
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -195%, -50%);
+}
+.tekst1
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -80%, 150%);
+  color: #C03939;
+  font-size: 50px;
+  width: 600px;
+}
+
+
+
+h4
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 580%, 306%);
+}
+h5
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 98%, -50%);
+}
+.tekst2
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 340%, 150%);
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+h6
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -650%, 1220%);
+}
+h7
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -200%, 120%);
+}
+.tekst3
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -80%, 535%);
+  color: #C03939;
+  font-size: 50px;
+  width: 600px;
+}
+
+
+
+h8
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 580%, 1250%);
+}
+h9
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 97%, 120%);
+}
+.tekst4
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 300%, 535%);
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+h10
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h11
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -191%, 288%);
+}
+.tekst5
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( -82%, 935%);
+  color: #C03939;
+  font-size: 50px;
+  width: 600px;
+}
+
+
+
+h12
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h13
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 106%, 280%);
+}
+.tekst6
+{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate( 300%, 935%);
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
